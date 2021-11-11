@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : no tengo twitter
 facebook:
   username               :
   app_id                 :
@@ -288,3 +288,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      permalink: :year/:month/:day/:title
