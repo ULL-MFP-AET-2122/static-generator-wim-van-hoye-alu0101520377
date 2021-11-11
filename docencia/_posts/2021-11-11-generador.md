@@ -1,0 +1,1 @@
+#Aprendiendo a usar un Generador Estático
